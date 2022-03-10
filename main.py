@@ -1,4 +1,4 @@
-from my_function import print_hi
+from pkg.my_function import print_hi
 
 
 def main():
